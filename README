@@ -1,0 +1,4 @@
+Serveur HTTP
+-> src/: les sources du porjet
+-> monsite/ : site pour les testes
+-> index.html:  page d'accueil du site
